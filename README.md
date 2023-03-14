@@ -1,6 +1,8 @@
 # OpenAI Computer Science Quiz Generator - Python
 
 Based off the OpenAI API example program.
+Needs more example questions to better determine the knowledge level and type of question.
+Produces 12 Questions based off a 1 hour limit as the AI is prompted with questions that take no longer than 5 minutes.
 
 ## Setup
 
