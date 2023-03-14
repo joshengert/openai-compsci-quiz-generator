@@ -1,4 +1,6 @@
-# OpenAI API Quickstart - Python
+# OpenAI Computer Science Quiz Generator - Python
+
+Based off the OpenAI API example program.
 
 ## Setup
 
