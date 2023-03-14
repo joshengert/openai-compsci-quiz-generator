@@ -11,7 +11,7 @@ Based off the OpenAI API example program.
 3. Navigate into the project directory:
 
    ```bash
-   $ cd openai-compsci-questions
+   $ cd openai-compsci-quiz-generator
    ```
 
 4. Create a new virtual environment:
